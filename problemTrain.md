@@ -307,3 +307,95 @@
   => 220/250+5x/18 = 6
   => 250 + 5x = 660
   => x = 82 km/hr.
+
+# 26 ) Two trains are running at 40 km/hr and 20 km/hr respectively in the same direction. Fast train completely passes a man sitting in the slower train in 5 seconds. What is the length of the fast train?
+
+- Ans -> relative speed 40-20 = 20 km/hr
+  => 20* 5/18 = m/sec
+  => 10*5/9 m/sec
+  => 50/9 m/sec
+  length of fast train = 50/9 \* 5
+  => 250/9 m
+  => 27 right 7/9 m
+
+# 27 ) A train overtakes two persons who are walking in the same direction in which the train is going, at the rate of 2 kmph and 4 kmph and passes them completely in 9 and 10 seconds respectively. The length of the train
+
+- Ans -> 2 kmph
+  => 2*5/18 m/sec
+  => 5/9 m/sec
+  4 kmph
+  4* 5/18 m/sec
+  => 10/9 m/sec
+  length of the train = x meter
+  its speed = y m/sec
+  x/ y-5/9 = 9 And x/ y-10/9 = 10
+  => 9y-5 = x And 10(9y-10) = 9x
+  => 9y - x = 5 and 90y - 9x = 100.
+  => 10x = 100
+  => x = 50
+
+# 28 ) A train overtakes two persons walking along a railway track. The first one walks at 4.5 km/hr. The other one walks at 5.4 km/hr. The train needs 8.4 and 8.5 seconds respectively to overtake them. What is the speed of the train if both the persons are walking in the same direction as the train?
+
+- Ans -> 4.5 km/hr
+  => 4.5 \* 5/18 m/sec
+  => 5/4 m/sec
+  => 1.25 m/sec
+
+  5.4 km/hr
+  => 5.4\* 5/18 m/sec
+  => 3/2 m/sec
+  => 1.5 m/sec
+
+  the speed of thr train = x meter
+  (x - 1.25) x 8.4 = (x - 1.5) x 8.5
+  => 8.4x - 10.5 = 8.5x - 12.75
+  => 0.1x = 2.25
+  => x = 22.5
+
+  speed of the train = 22.5\* 18/5 km/hr
+  => 81 km/hr.
+
+# 29 ) A train travelling at 48 kmph completely crosses another train having half its length and travelling in opposite direction at 42 kmph, in 12 seconds. It also passes a railway platform in 45 seconds. The length of the platform
+
+- Ans -> the length of the first train = x meter
+  length of thr second train = x/2 meter
+  relative speed = 48+42 = 90kmph
+  => 90*5/18 m/sec
+  devide by into 2 and again 9
+  => 5*5 =25 m/sec
+  => (x + x/2)/25 = 12
+  => 3x/2 =300
+  => x = 200
+  length of platform = y meter
+  speed of the first train = 48*5/18 m/sec
+  => divide by into 2
+  => 24*5/9 m/sec
+  => divide by into 3
+  => 8*5/3 m/sec
+  => 40/3 m/sec
+  (200+y)*3/40 = 45
+  => 600 + 3y = 1800
+  => 3y = 1800 - 600
+  => 3y = 1200
+  => y = 1200/3
+  => y = 400 m
+
+# 30 ) Two stations A and B are 110 km apart on a straight line. One train starts from A at 7 a.m. and travels towards B at 20 kmph. Another train starts from B at 8 a.m. and travels towards A at a speed of 25 kmph. At what time will they meet?
+
+- Ans -> supppose they meet x hour after 7 a.m
+  distance covered by A in x hour = 20x km
+  => distance covered by B in (x-1) hour = 25(x-1)km
+  => 20x + 25(x - 1) = 110
+  => 20x + 25x - 25 = 110
+  => 45x = 110 + 25
+  => 45x = 135
+  => x = 135/45
+  => divied by into 5
+  => x = 3
+
+So, they meet at 10 a.m.
+
+# 31 ) Two, trains, one from Howrah to Patna and the other from Patna to Howrah, start simultaneously. After they meet, the trains reach their destinations after 9 hours and 16 hours respectively. The ratio of their speeds
+
+- Ans -> Let us name the trains as A and B. Then,
+  (A's speed) : (B's speed) = b : a = 16 : 9 = 4 : 3.
